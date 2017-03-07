@@ -23,6 +23,7 @@
 	width: 16px;
 	height: 16px;
 	cursor: pointer;
+	clear: both
 }
 
 .dotstyle li a {
